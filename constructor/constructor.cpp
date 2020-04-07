@@ -26,6 +26,6 @@ class Area
        {
            cout << "Area: " << temp << endl;
        }
-};
+
 
 int main()
