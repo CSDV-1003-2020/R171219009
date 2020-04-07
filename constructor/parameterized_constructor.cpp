@@ -23,4 +23,10 @@ public:
     { 
         return y; 
     } 
-}; 
+};
+
+int main()
+{
+    // Constructor called
+    Point p1(10, 15);
+}
