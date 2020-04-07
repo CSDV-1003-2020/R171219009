@@ -24,5 +24,3 @@ public:
         return y; 
     } 
 }; 
-  
-int main() 
