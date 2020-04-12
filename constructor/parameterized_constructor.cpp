@@ -23,6 +23,16 @@ public:
     { 
         return y; 
     } 
-}; 
+};
+
+int main()
+{
+    // Constructor called 
+    Point p1(10, 15); 
   
-int main() 
+    // Access values assigned by constructor 
+    cout << "p1.x = " << p1.getX() << ", p1.y = " << p1.getY(); 
+  
+    return 0;
+}
+
