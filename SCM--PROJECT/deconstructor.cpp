@@ -2,6 +2,10 @@
 using namespace std;
 class HelloWorld{
 public:
+    HelloWorld()
+    {
+     cout<<"Constructor is called"<<endl;
+    }
 	//Destructor
     HelloWorld()
     {
